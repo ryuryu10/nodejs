@@ -1,0 +1,11 @@
+{
+    "name": "learn-express",
+    "version": "0.0.1",
+    "description": "익스프레스 공부하기",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app"
+    },
+    "author": "ryuryu10",
+    "license": "MIT"
+}
